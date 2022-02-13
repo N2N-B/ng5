@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+student
+{
+	background-color: blue;
+}
+firstname,lastname,email,marks
+{
+	font-size:25px;
+	display:block;
+	color:white;
+	margin-left: 50px;
+}
